@@ -9,18 +9,21 @@ http://www.stencyl.com/
 Game Studio in a Box
 Stencyl isn't your average game creation software; it's a gorgeous, intuitive toolset that accelerates your workflow and then gets out of the way. We take care of the essentials, so you can focus on what's important - making your game yours.
 
-# Publish Everywhere
+## Publish Everywhere
 With extensive platform support, you can rest assured that all players will have access to your game. Today, Stencyl supports:
     - iOS (iPhone/iPad)
+    <br>
     - Android
+   <br>
     - Windows
+    <br>
     - Mac
+    <br>
     - Linux
+    <br>
     - Flash
+    <br>
     - HTML5
- # Some pictures of Game:
- 
-
 ## Puedes seguirme en mis redes sociales como:
 ## instagram:@lirrums
 ## twitter: @lirrums
